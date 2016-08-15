@@ -2,8 +2,8 @@
 
 [![Version](https://img.shields.io/badge/Rimworld-A14-green.svg)]
 (http://rimworldgame.com/)
-[![License](https://img.shields.io/badge/license-Custom-blue.svg)]
-(#)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-blue.svg)]
+(http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 If it has a name, you can shrink it.
 
@@ -13,10 +13,12 @@ This mod introduces the MiniaturisationDef, it allows you or anyone to shrink an
 
 ###Mod support
 Miniaturisation currently supports the following mods:
+
 - AdditionalLighting
 - Bulk Meals
 - Colony Manager
 - Craftable Medicines
+- Defence Shield
 - DermalRegenerator
 - Edge Technologies
 - ED-ReinforcedStuff
@@ -25,12 +27,17 @@ Miniaturisation currently supports the following mods:
 - Expanded Prosthetics and Organ Engineering
 - ExtendedMedicine
 - ExtendedStorage
+- Glitter Tech
+- LT-DoorMat
 - Medical Training
 - Mending
 - Misc. Objects
 - Misc. Training
 - Modular Tables
 - Roof Support
+- Solar Flare Shield
+- T_ExpandedCrops
+- Vegetable Garden
 
 If you don't have the mod, the MiniaturisationDefs are ignored.
 
@@ -41,7 +48,6 @@ You can edit or contribute MiniaturisationDefs directly to the repository or you
 ###Can I install this on existing colonies?
 Yes, should be safe.
 ###License info
-Custom
+Assets are [CC-BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-##Requirements
-[Community Core Library](https://github.com/RimWorldCCLTeam/CommunityCoreLibrary)
+Code is derivate from Ludeon Studio
